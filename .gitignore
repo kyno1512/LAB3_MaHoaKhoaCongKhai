@@ -1,7 +1,0 @@
-﻿target/
-*.jar
-*_keys.txt
-*private*.txt
-*.key
-*.pem
-~$*.docx
